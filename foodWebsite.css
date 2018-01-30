@@ -42,7 +42,12 @@ h1 {
 }
 
 img {
+	margin: auto;
 	width: 100%;
+}
+
+body {
+	margin: 40px;
 }
 
 div {
@@ -53,4 +58,8 @@ footer {
 	padding-top: 20px;
 	text-align: center;
 	padding-bottom: 20px;
+}
+
+.shareRecipe {
+	list-style-type: none;
 }
