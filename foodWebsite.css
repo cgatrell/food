@@ -33,7 +33,8 @@ nav li a:hover {
 }
 
 h2 {
-	text-align: center;
+ 	text-align: center;
+	font-family: 'Kaushan Script', cursive;
 }
 
 h1 {
@@ -51,6 +52,7 @@ body {
 }
 
 div {
+	font-family: 'Courgette', cursive;
 	padding: 20px;
 }
 
