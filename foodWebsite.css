@@ -52,7 +52,6 @@ body {
 }
 
 div {
-	font-family: 'Courgette', cursive;
 	padding: 20px;
 }
 
@@ -64,4 +63,14 @@ footer {
 
 .shareRecipe {
 	list-style-type: none;
+}
+
+textarea {
+	width: 193px;
+	height: 500px;
+}
+
+.shareForm {
+	display: grid;
+	grid-template-columns: 1fr 4fr;
 }
